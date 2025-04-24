@@ -9,3 +9,6 @@ character_name =  "Tom"
 character_age = "22"
 
 print("" +character_name + " is " + character_age + " years younger than me.")
+
+phrase = "Coding Academy"
+print(phrase.islower())
