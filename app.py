@@ -1,4 +1,7 @@
-print("My friend's name is George.")
-print("George enjoys research and coding.")
-print("George is 20 years old and is a student.")
-print("George is 10 years younger than me.")
+character_name = "Mike"
+character_age = "50"
+
+print("My friend's name is " + character_name + ".")
+print("" + character_name + " enjoys research and coding.")
+print("George is " + character_age + " years old and is a student.")
+print("George is " + character_age + " years younger than me.")
